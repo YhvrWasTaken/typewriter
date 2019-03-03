@@ -1,5 +1,5 @@
 # typewriter
-Typewriter-esque text, under 1/4th of a Kilobyte minified.
+Typewriter-esque text, under 1/3rd of a Kilobyte minified.
 
 ## Usage
 
